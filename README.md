@@ -1,9 +1,4 @@
-Ye copy-paste kar README mein bhai:
-
----
-
-```markdown
-# 🚇 Delhi Metro Analysis
+🚇 Delhi Metro Analysis
 
 ## Project Overview
 Exploratory Data Analysis (EDA) on Delhi Metro network to uncover passenger traffic patterns, station-wise performance, and line-wise trends using Python and Power BI.
