@@ -42,4 +42,12 @@ delhi-metro-analysis/
 
 ---
 
-Paste kar aur commit kar — bata ho gaya. 👇
+ ## 📸 Visualizations
+
+![Top 10 Busiest Stations](top10_busiest_stations.png)
+
+![Line-wise Passengers](linewise_passengers.png)
+
+![Peak Hour Comparison](peak_comparison.png)
+
+![Interchange Analysis](interchange_analysis.png)
