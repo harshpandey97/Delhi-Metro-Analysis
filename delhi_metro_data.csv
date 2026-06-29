@@ -1,0 +1,21 @@
+station_id,station_name,line,daily_passengers,peak_morning,peak_evening,zone,interchange
+1,Rajiv Chowk,Blue,85000,12000,15000,2,Yes
+2,Kashmere Gate,Yellow,72000,10500,13000,1,Yes
+3,Hauz Khas,Yellow,45000,7000,9000,3,Yes
+4,Dwarka Sec 21,Blue,38000,6000,8000,6,No
+5,Noida Sector 18,Blue,42000,6500,8500,5,No
+6,Botanical Garden,Blue,55000,8000,11000,4,Yes
+7,Huda City Centre,Yellow,48000,7500,9500,5,No
+8,Dilshad Garden,Red,35000,5500,7000,4,No
+9,Rithala,Red,28000,4500,6000,5,No
+10,Inderlok,Green,22000,3500,5000,3,Yes
+11,IGI Airport,Orange,31000,5000,6500,4,No
+12,New Delhi,Yellow,78000,11000,14000,1,Yes
+13,Central Secretariat,Violet,52000,8000,10500,2,Yes
+14,Janakpuri West,Blue,41000,6200,8200,5,Yes
+15,Vaishali,Blue,39000,6100,7900,5,No
+16,Yamuna Bank,Blue,33000,5200,6800,3,Yes
+17,Lajpat Nagar,Pink,47000,7200,9200,3,Yes
+18,Mayur Vihar,Blue,44000,6800,8800,4,No
+19,Rohini East,Red,29000,4600,6100,5,No
+20,Saket,Yellow,43000,6600,8600,4,No
